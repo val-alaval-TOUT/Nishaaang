@@ -4,7 +4,7 @@ PAYLOADS -
 It contains many interesting scripts like download and execute, keylogger, dns txt pwnage, wait for command and much more.
 
 HELP - 
-All payloads and scripts are Get-Help compatible. Use "Get-Help <scriptname.ps1> -full" on a PowerShell? prompt to get full help details.
+All payloads and scripts are Get-Help compatible. Use "Get-Help <scriptname.ps1> -full" on a PowerShell prompt to get full help details.
 
 CONTACT - 
 Please raise an issue if you encounter a bug.
