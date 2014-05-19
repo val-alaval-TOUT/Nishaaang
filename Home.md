@@ -1,12 +1,12 @@
 Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell? for offensive security and post exploitation during Penetration Tests. The scripts are written on the basis of requirement by the author during real Penetration Tests.
 
-PAYLOADS
+PAYLOADS - 
 It contains many interesting scripts like download and execute, keylogger, dns txt pwnage, wait for command and much more.
 
-HELP
+HELP - 
 All payloads and scripts are Get-Help compatible. Use "Get-Help <scriptname.ps1> -full" on a PowerShell? prompt to get full help details.
 
-CONTACT
+CONTACT - 
 Please raise an issue if you encounter a bug.
 
 For feedback and feature requests to http://groups.google.com/group/nishang-users or mail me at nikhil dot? uitrgpv at gmail.com
